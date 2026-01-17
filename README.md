@@ -1,4 +1,4 @@
-## Hi there 👋
+![image alt](https://github.com/vampirecopia/intr/blob/main/akaza.png?raw=true)
 
 <!--
 **vampirecopia/vampirecopia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
